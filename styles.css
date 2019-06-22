@@ -24,26 +24,26 @@ body {
 	width: 100%;
 	margin: 0 auto;
 	max-width: 1024px;
-	height: 100%
+	height: 100%;
 }
 
 a {
 	color: black;
-	background-color: white
+	background-color: white;
 }
 
-	#facebook-link: hover {
+#facebook-link:hover {
 	transition: opacity 0.4s;
 	opacity: 0.9
 }
 
-	#facebook-link {
-		margin: 20px auto;
+#facebook-link {
+	margin: 20px auto;
 	width: 200px;
 	display: block
 }
 
-	form {
+form {
 	background-color: white;
 	position: absolute;
 	top: 50%;
@@ -167,7 +167,7 @@ nav #linkWrapper a {
 	text-decoration: none;
 }
 
-nav #linkWrapper a: active {
+nav #linkWrapper a:active {
 	background-color: #d4d228
 }
 
@@ -236,7 +236,7 @@ footer p {
 	background-repeat: no-repeat
 }
 
-	.banner .first-letter-big {
+.banner .first-letter-big {
 	color: #D5D110;
 	font-size: 3em;
 	line-height: 35px
@@ -332,7 +332,7 @@ h4 {
 	display: block;
 }
 
-.jump-list li a: hover {
+.jump-list li a:hover {
 	background-color: #d4d228;
 	cursor: pointer
 }
@@ -389,36 +389,36 @@ nav #linkWrapper {
 	width: 100%
 }
 
-	nav #linkWrapper a {
+nav #linkWrapper a {
 	padding: 13px 0;
 	font-size: 0.8em;
 }
 
-nav #linkWrapper a: nth-child(1) {
+nav #linkWrapper a:nth-child(1) {
 	width: 9.5%;
 }
 
-nav #linkWrapper a: nth-child(2) {
+nav #linkWrapper a:nth-child(2) {
 	width: 18.2%;
 }
 
-nav #linkWrapper a: nth-child(3) {
+nav #linkWrapper a:nth-child(3) {
 	width: 17.8%;
 }
 
-nav #linkWrapper a: nth-child(4) {
+nav #linkWrapper a:nth-child(4) {
 	width: 12.2%;
 }
 
-nav #linkWrapper a: nth-child(5) {
+nav #linkWrapper a:nth-child(5) {
 	width: 13.2%;
 }
 
-nav #linkWrapper a: nth-child(6) {
+nav #linkWrapper a:nth-child(6) {
 		width: 16%;
 }
 
-nav #linkWrapper a: nth-child(7) {
+nav #linkWrapper a:nth-child(7) {
 	width: 13%;
 }
 
@@ -445,7 +445,7 @@ nav #linkWrapper a: nth-child(7) {
 		float: none
 	}
 
-	#content .halflist: nth-child(3) {
+	#content .halflist:nth-child(3) {
 		margin-top: 20px
 	}
 
@@ -453,35 +453,35 @@ nav #linkWrapper a: nth-child(7) {
 		font-size: 0.7em
 	}
 
-	nav #linkWrapper a: nth-child(1) {
+	nav #linkWrapper a:nth-child(1) {
 		width: 21%
 	}
 
-	nav #linkWrapper a: nth-child(2) {
+	nav #linkWrapper a:nth-child(2) {
 		width: 40%
 	}
 
-	nav #linkWrapper a: nth-child(3) {
+	nav #linkWrapper a:nth-child(3) {
 		width: 39%
 	}
 
-	nav #linkWrapper a: nth-child(4) {
+	nav #linkWrapper a:nth-child(4) {
 		width: 22%;
 		clear: left;
 		border-top: 2px solid #d4d228
 	}
 
-	nav #linkWrapper a: nth-child(5) {
+	nav #linkWrapper a:nth-child(5) {
 		width: 24%;
 		border-top: 2px solid #d4d228
 	}
 
-	nav #linkWrapper a: nth-child(6) {
+	nav #linkWrapper a:nth-child(6) {
 		width: 29%;
 		border-top: 2px solid #d4d228
 	}
 
-	nav #linkWrapper a: nth-child(7) {
+	nav #linkWrapper a:nth-child(7) {
 		width: 25%;
 		border-top: 2px solid #d4d228
 	}
