@@ -1,4 +1,4 @@
 # Access Value
 
-Static website for http://www.accessvalue.com/
+Static website for https://accessvalue.com/
 
