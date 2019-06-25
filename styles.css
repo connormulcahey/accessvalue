@@ -97,12 +97,12 @@ form a {
 	min-width: 150px
 }
 
-	#loginForm label {
+#loginForm label {
 	display: none
 }
 
-	header {
-	height: 150px
+header {
+	height: 150px;
 }
 
 header #logo {
@@ -177,7 +177,7 @@ nav #linkWrapper a.current {
 
 @media all and (min-width:  1024px) {
 
-	nav a: hover {
+	nav a:hover {
 		background-color: #d4d228
 	}
 
@@ -233,13 +233,13 @@ footer p {
 .banner {
 	width: 100%;
 	background-color: #264461;
-	background-repeat: no-repeat
+	background-repeat: no-repeat;
 }
 
 .banner .first-letter-big {
 	color: #D5D110;
 	font-size: 3em;
-	line-height: 35px
+	line-height: 35px;
 }
 
 .banner p {
@@ -337,91 +337,90 @@ h4 {
 	cursor: pointer
 }
 
-	@media screen and (max-width:  1024px) {
+@media screen and (max-width:  1024px) {
 	header {
-	height: 110px
-}
+		height: 110px;
+	}
 
-header #logo {
-	margin: 0 auto;
-	padding: 10px 0;
-	width: 200px;
-	height: 62px;
-	background-position: center;
-	background-size: 200px 59px;
-	background-image: url("images/logo202.png");
-}
+	header #logo {
+		margin: 0 auto;
+		padding: 10px 0;
+		width: 200px;
+		height: 62px;
+		background-position: center;
+		background-size: 200px 59px;
+		background-image: url("images/logo202.png");
+	}
 
-header p {
-	float: none;
-	width: 100%;
-	text-align: center;
-	margin-top: 0px;
-	font-size: 1.0em;
-}
+	header p {
+		float: none;
+		width: 100%;
+		text-align: center;
+		margin-top: 0px;
+		font-size: 1.0em;
+	}
 
-#sidebar,#content {
-	float: none;
-	width: 100%;
-	box-sizing: border-box
-}
+	#sidebar,#content {
+		float: none;
+		width: 100%;
+		box-sizing: border-box;
+	}
 
-#sidebar {
-	display: none
-}
+	#sidebar {
+		display: none;
+	}
 
-.banner {
-	font-size: 14px;
-	background-image: none !important;
-	height: auto !important
-}
+	.banner {
+		font-size: 14px;
+		background-image: none !important;
+		height: auto !important;
+	}
 
-.banner p {
-	width: 100%;
-	box-sizing: border-box;
-	padding: 20px 5%;
-	float: none;
-	margin: 0;
-}
+	.banner p {
+		width: 100%;
+		box-sizing: border-box;
+		padding: 20px 5%;
+		float: none;
+		margin: 0;
+	}
 
-nav #linkWrapper {
-	margin: 0 auto;
-	width: 100%
-}
+	nav #linkWrapper {
+		margin: 0 auto;
+		width: 100%
+	}
 
-nav #linkWrapper a {
-	padding: 13px 0;
-	font-size: 0.8em;
-}
+	nav #linkWrapper a {
+		padding: 13px 0;
+		font-size: 0.8em;
+	}
 
-nav #linkWrapper a:nth-child(1) {
-	width: 9.5%;
-}
+	nav #linkWrapper a:nth-child(1) {
+		width: 9.5%;
+	}
 
-nav #linkWrapper a:nth-child(2) {
-	width: 18.2%;
-}
+	nav #linkWrapper a:nth-child(2) {
+		width: 18.2%;
+	}
 
-nav #linkWrapper a:nth-child(3) {
-	width: 17.8%;
-}
+	nav #linkWrapper a:nth-child(3) {
+		width: 17.8%;
+	}
 
-nav #linkWrapper a:nth-child(4) {
-	width: 12.2%;
-}
+	nav #linkWrapper a:nth-child(4) {
+		width: 12.2%;
+	}
 
-nav #linkWrapper a:nth-child(5) {
-	width: 13.2%;
-}
+	nav #linkWrapper a:nth-child(5) {
+		width: 13.2%;
+	}
 
-nav #linkWrapper a:nth-child(6) {
-		width: 16%;
-}
+	nav #linkWrapper a:nth-child(6) {
+			width: 16%;
+	}
 
-nav #linkWrapper a:nth-child(7) {
-	width: 13%;
-}
-
+	nav #linkWrapper a:nth-child(7) {
+		width: 13%;
+	}
 
 }
 
@@ -435,71 +434,71 @@ nav #linkWrapper a:nth-child(7) {
 @media all and (max-width:  685px) {
 
 	#content {
-		font-size: 0.9em
+		font-size: 0.9em;
 	}
 
 	#content .halflist {
 		width: 100%;
 		margin-bottom: 0;
 		padding-top: 0;
-		float: none
+		float: none;
 	}
 
 	#content .halflist:nth-child(3) {
-		margin-top: 20px
+		margin-top: 20px;
 	}
 
 	header p {
-		font-size: 0.7em
+		font-size: 0.7em;
 	}
 
 	nav #linkWrapper a:nth-child(1) {
-		width: 21%
+		width: 21%;
 	}
 
 	nav #linkWrapper a:nth-child(2) {
-		width: 40%
+		width: 40%;
 	}
 
 	nav #linkWrapper a:nth-child(3) {
-		width: 39%
+		width: 39%;
 	}
 
 	nav #linkWrapper a:nth-child(4) {
 		width: 22%;
 		clear: left;
-		border-top: 2px solid #d4d228
+		border-top: 2px solid #d4d228;
 	}
 
 	nav #linkWrapper a:nth-child(5) {
 		width: 24%;
-		border-top: 2px solid #d4d228
+		border-top: 2px solid #d4d228;
 	}
 
 	nav #linkWrapper a:nth-child(6) {
 		width: 29%;
-		border-top: 2px solid #d4d228
+		border-top: 2px solid #d4d228;
 	}
 
 	nav #linkWrapper a:nth-child(7) {
 		width: 25%;
-		border-top: 2px solid #d4d228
+		border-top: 2px solid #d4d228;
 	}
 
 	#sidebar {
-		padding-top: 0
+		padding-top: 0;
 	}
 
 	.banner {
-		font-size: 11px
+		font-size: 11px;
 	}
 
 	.banner p {
-		line-height: 23px
+		line-height: 23px;
 	}
 
 	#content {
-		font-size: 0.9em
+		font-size: 0.9em;
 	}
 
 	header #logo {
