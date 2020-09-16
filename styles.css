@@ -161,7 +161,6 @@ nav #linkWrapper a {
 	text-align: center;
 	padding: 15px 2.68%;
 	box-sizing: border-box;
-	transition: background-color 0.4s;
 	cursor: pointer;
 	display: block;
 	text-decoration: none;
@@ -328,7 +327,6 @@ h4 {
 	color: #264461;
 	border-bottom: 2px solid #d4d228;
 	padding: 10px 3px 8px 3px;
-	transition: background-color 0.4s;
 	display: block;
 }
 
